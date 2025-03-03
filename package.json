@@ -1,0 +1,17 @@
+{
+  "name": "mis-notas-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "json-server": "^0.16.3"
+  },
+  "scripts": {
+    "start": "json-server palabras.json --port 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
