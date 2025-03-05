@@ -9,7 +9,7 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "json-server palabras.json --port $PORT --host 0.0.0.0"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
